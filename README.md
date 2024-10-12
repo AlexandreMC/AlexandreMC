@@ -29,8 +29,8 @@
 <img align="center" alt="Alexandre-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img align="center" alt="Alexandre-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Alexandre-Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-<img align="center" alt="Alexandre-Microsoft" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Microsoft_logo.svg/1200px-Microsoft_logo.svg.png">
-<img align="center" alt="Alexandre-BPMN" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BPMN_Icon.svg/1200px-BPMN_Icon.svg.png">
-<img align="center" alt="Alexandre-NetworkPlus" height="40" width="50" src="https://www.comptia.org/content/images/network-plus/2021/images/icons/CompTIA_NetworkPlus_Logo.png">
+<img align="center" alt="Alexandre-Microsoft" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Microsoft_logo.svg">
+<img align="center" alt="Alexandre-BPMN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bpmn/bpmn-original.svg">
+<img align="center" alt="Alexandre-NetworkPlus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/comptia/comptia-original.svg">
 </div>
-<br>
+<br />
