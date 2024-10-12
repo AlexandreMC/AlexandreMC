@@ -30,8 +30,7 @@
 <img align="center" alt="Alexandre-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Alexandre-Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
 <img align="center" alt="Alexandre-Microsoft" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
-<img align="center" alt="Alexandre-BPMN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bpmn/bpmn-original.svg">
-<img align="center" alt="Alexandre-NetworkPlus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/comptia/comptia-original.svg">
+<!-- <img align="center" alt="Alexandre-NetworkPlus" height="40" width="50" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg"> -->
 <img align="center" alt="Alexandre-DBeaver" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
 </div>
 <br />
