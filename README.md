@@ -12,8 +12,7 @@
 - Pós-graduação em Docência no Ensino Médio  
 - Mestrado em Ciência da Computação  
 
-:milky_way: Sou um entusiasta de tecnologia, sempre em busca de novos aprendizados.  
-💞️ Estou colaborando com minha jornada Dev e estudos de tecnologia e computação.  
+:milky_way: Sou um entusiasta de tecnologia, sempre em busca de novos aprendizados.  E estudos de tecnologia e computação.  
 :four_leaf_clover: Espero contribuir com aqueles que estão começando e que, assim como eu, são apaixonados por tecnologia!
 
 <div align="center">
